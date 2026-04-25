@@ -10,7 +10,7 @@ experiment tracking, and automated cloud deployment.
 
 Click on the image below to watch the demo:
 
-[![Watch the demo](demo_iphone.gif)]([your_google_drive_link_here](https://drive.google.com/drive/folders/1kybWbGVXGt00wdKY6V7RH6tQQHkk71o-))
+[![Watch the demo](demo_iphone.gif)]
 
 ---
 
